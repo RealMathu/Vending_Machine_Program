@@ -1,0 +1,3 @@
+﻿  vending_machine.cpp
+H:\Mathu\Side Projects\Cola _ Machine\vending_machine.cpp(146,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Cola _ Machine.vcxproj -> H:\Mathu\Side Projects\Cola _ Machine\Debug\Cola _ Machine.exe
